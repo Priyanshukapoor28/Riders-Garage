@@ -52,6 +52,7 @@ Riders Garage is a cutting-edge car rental management system that redefines the 
 </br></br>
 ![pic_10](https://github.com/Priyanshukapoor28/Riders-Garage/assets/79279569/66dbb043-e327-44b7-a1b0-f9ec734845ec)
 
-
+</br></br>
+![pic_11](https://github.com/Priyanshukapoor28/Riders-Garage/assets/79279569/e554c5b3-e5e1-4852-b063-c3a3e1338b67)
 
 
